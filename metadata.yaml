@@ -1,0 +1,35 @@
+_repo: The-Aran-Islands_4381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, Edmund John Millington
+    - Synge, John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: Located off the west coast of Ireland, the Aran Islands were considered
+  the country's pure, uncorrupted heart, the repository of its ancient language, culture,
+  and spiritual values. John Millington Synge visited the Aran Islands during the
+  years 1898 to 1901, gathering folklore and anecdotes that he would later use in
+  his plays. His evocative travelogue is a peek at a disappearing way of life, capturing
+  the ancient ways of the island, its breathtaking loveliness, and the charms of the
+  residents and their customs.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aran Islands (Ireland) -- Description and travel'
+- !lcsh 'Synge, J. M. (John Millington), 1871-1909 -- Travel -- Ireland -- Aran Islands'
+- !lcc 'PR'
+- GITenberg
+title: The Aran Islands
+url: http://www.gutenberg.org/ebooks/4381
